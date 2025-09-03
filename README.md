@@ -195,4 +195,4 @@ login({appState: JSON.parse(fs.readFileSync('appstate.json', 'utf8'))}, (err, ap
 ## Projects using this API:
 
 - [c3c](https://github.com/lequanglam/c3c) - A bot that can be customizable using plugins. Support Facebook & Discord.
-- [SAGOR-BOT](https://github.com/SHANKAR-PROJECT/SMART-SHANKAR-BOT) - A simple Facebook Messenger Bot made by Smart Shankar.
+- [SAGOR-BOT](https://github.com/uzi-sagor/Goat-bot.git) - A simple Facebook Messenger Bot made by Sagor.
